@@ -24,5 +24,7 @@ I found that researching codes that I hadn't used before proved to be quite time
 
 # Contact
 Incase of any queries, contact;
+
 Email: Sanyashakil@hotmail.co.uk
+
 github profile: [sshakilr](https://github.com/sshakilr/accessibility-challenge)
