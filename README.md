@@ -25,4 +25,4 @@ I found that researching codes that I hadn't used before proved to be quite time
 # Contact
 incase of any queries, contact;
 email: Sanyashakil@hotmail.co.uk
-github profile: [sshakilr] (https://github.com/sshakilr/accessibility-challenge)
+github profile: [sshakilr](https://github.com/sshakilr/accessibility-challenge)
