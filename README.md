@@ -23,6 +23,6 @@ I learnt how to use ARIA labels to enhance accessibity for users with hearing im
 I found that researching codes that I hadn't used before proved to be quite time consuming, namely ARIA lables, however now that I have used it, I feel like and will be more confident using again in the future, though it is still something I would like to improve on. I also found learning to display items side by side quite challanign, though this was later solved thrugh trial and error.
 
 # Contact
-incase of any queries, contact;
-email: Sanyashakil@hotmail.co.uk
+Incase of any queries, contact;
+Email: Sanyashakil@hotmail.co.uk
 github profile: [sshakilr](https://github.com/sshakilr/accessibility-challenge)
